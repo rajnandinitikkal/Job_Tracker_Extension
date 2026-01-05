@@ -1,3 +1,8 @@
+## Steps for using this extension:
+1) Fork this repository / Download zip file -> extract zip file
+2) Go to browser select extension / Click on extension -> Manage extensions -> Use developer mode -> Click on load unpacked -> Select extracted folder and extension will display on browser.
+
+
 #### Job Application Tracker – Chrome Extension
 - Applying for jobs across multiple platforms often leads to accidentally applying for the same role more than once. This Chrome extension is designed to track applied jobs and their application dates, helping users avoid duplicate submissions.
 
